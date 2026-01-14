@@ -1,1 +1,3 @@
 # platinumbad.moe
+
+hello world
